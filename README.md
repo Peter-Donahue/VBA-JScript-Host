@@ -215,5 +215,6 @@ MIT — see [`LICENSE`](./LICENSE) for the full text.
 | [David Zimmer](http://sandsprite.com) | VB-ized IActiveScript Type Library |
 | [Douglas Crockford](https://github.com/douglascrockford/JSON-js) | JSON2 polyfill |
 | [Vladimir Vissoultchev](https://github.com/wqweto) | File-reading utilities (VbPeg) |
-| [@Greedo](https://github.com/Greedquest) | `LongPtr` Enum polyfill for VBA6 |
+| [Greedquest](https://github.com/Greedquest) | `LongPtr` Enum polyfill for VBA6 |
 | [Ion Cristian Buse](https://github.com/cristianbuse/VBA-MemoryTools) | Cross-platform conditional compilation patterns |
+| [S. Meadan](https://exceldevelopmentplatform.blogspot.com) | JavaScript Helper Functions |
